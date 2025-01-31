@@ -17,6 +17,7 @@
 - `pip install -r requirements.txt` - установка зависимостей
 - `python manage.py migrate` - применение миграций
 - `python manage.py runserver` - запуск сервера
+- `D:\Programs\PostgreSQL\17\bin\pg_ctl -D "D:\Programs\PostgreSQL\17\data" start` - запуск postres
 
 ### Linux/Macos:
 - `python3 -m venv venv` - создание виртуального окружения
